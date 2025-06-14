@@ -55,7 +55,7 @@ const Home = () => {
               Developer
             </h1>
             <p className="mt-6 text-gray-800 text-xl lg:text-2xl px-2">
-              I'm a full-stack developer based in Morocco. I build powerful,
+              {"I'm"} a full-stack developer based in Morocco. I build powerful,
               user-friendly websites from front to back.
             </p>
             {/* Button Section - Centered on Small/Mid Screens */}
